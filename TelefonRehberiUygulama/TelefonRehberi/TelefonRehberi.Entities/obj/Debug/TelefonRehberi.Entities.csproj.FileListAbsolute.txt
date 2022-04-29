@@ -1,0 +1,6 @@
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.AssemblyReference.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.pdb

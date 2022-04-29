@@ -1,0 +1,11 @@
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csproj.AssemblyReference.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Core.pdb
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.csproj.CopyComplete
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.dll
+C:\Users\enes_\OneDrive\Masaüstü\C#\TelefonRehberiUygulama\TelefonRehberi\TelefonRehberi.Core\obj\Debug\TelefonRehberi.Core.pdb
